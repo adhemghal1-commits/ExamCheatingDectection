@@ -1,0 +1,6 @@
+ultralytics>=8.3
+opencv-python
+numpy
+pillow
+mediapipe
+firebase-admin
